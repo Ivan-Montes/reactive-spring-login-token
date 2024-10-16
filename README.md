@@ -29,7 +29,7 @@ Just me, [Iván](https://github.com/Ivan-Montes) :sweat_smile:
 ---
 
 
-[![Java](https://badgen.net/static/JavaSE/17/orange)](https://www.java.com/es/)
+[![Java](https://badgen.net/static/JavaSE/21/orange)](https://www.java.com/es/)
 [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label&color=red)](https://https://maven.apache.org/)
 [![Spring](https://img.shields.io/badge/spring-blue?logo=Spring&logoColor=white)](https://spring.io)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
